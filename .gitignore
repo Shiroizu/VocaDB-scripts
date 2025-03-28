@@ -3,6 +3,7 @@
 .history
 /cache/
 /output/
+/logs/
 notifications.txt
 new song ids.txt
 seen song ids.txt
