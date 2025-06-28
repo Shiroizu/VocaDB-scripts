@@ -14,6 +14,6 @@ wheels/
 *.egg-info/
 .history
 *cache*
-*/output/*
+*output*
 *logs*
-*/data/*
+*data*
