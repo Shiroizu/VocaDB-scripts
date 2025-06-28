@@ -138,8 +138,8 @@ wheels = [
 
 [[package]]
 name = "vdbpy"
-version = "2.0.0"
-source = { git = "https://github.com/Shiroizu/VDBpy.git#73889e5c1d4bc5268d6aeec025d7196d7f6737f7" }
+version = "2.3.3"
+source = { git = "https://github.com/Shiroizu/VDBpy#3b0785071f1cbc2e912603be8d6af744cbc8bc4c" }
 dependencies = [
     { name = "diskcache" },
     { name = "plotly" },
@@ -150,11 +150,11 @@ dependencies = [
 
 [[package]]
 name = "vocadb-scripts"
-version = "0.1.0"
+version = "1.0.0"
 source = { virtual = "." }
 dependencies = [
     { name = "vdbpy" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "vdbpy", git = "https://github.com/Shiroizu/VDBpy.git" }]
+requires-dist = [{ name = "vdbpy", git = "https://github.com/Shiroizu/VDBpy" }]
