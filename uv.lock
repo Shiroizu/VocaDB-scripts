@@ -138,8 +138,8 @@ wheels = [
 
 [[package]]
 name = "vdbpy"
-version = "4.1.1"
-source = { git = "https://github.com/Shiroizu/VDBpy#747c05468faec833011ed43a1c71ca8087be63ac" }
+version = "4.1.2"
+source = { git = "https://github.com/Shiroizu/VDBpy#b1fa4afade10208bc614469c6b3aa77be9ee76ff" }
 dependencies = [
     { name = "diskcache" },
     { name = "plotly" },
