@@ -430,8 +430,8 @@ wheels = [
 
 [[package]]
 name = "vdbpy"
-version = "19.2.0"
-source = { git = "https://github.com/Shiroizu/VDBpy#1cab8ef4640a086f7e82cf366592bcac82f10ad0" }
+version = "19.4.0"
+source = { git = "https://github.com/Shiroizu/VDBpy#66c703dbeca1822c2241457d5505416807aa5908" }
 dependencies = [
     { name = "coverage" },
     { name = "defusedxml" },
@@ -449,7 +449,7 @@ dependencies = [
 
 [[package]]
 name = "vocadb-scripts"
-version = "2.1.0"
+version = "2.1.1"
 source = { editable = "." }
 dependencies = [
     { name = "kaleido" },
