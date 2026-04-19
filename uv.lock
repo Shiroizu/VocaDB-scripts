@@ -501,8 +501,8 @@ wheels = [
 
 [[package]]
 name = "vdbpy"
-version = "20.8.2"
-source = { git = "https://github.com/Shiroizu/VDBpy#77bae212f0fd83582491231efe7a2f44581e6ce4" }
+version = "20.8.3"
+source = { git = "https://github.com/Shiroizu/VDBpy#86e3d0a3c731f31b75e5e1e366ec3fd1f7f23493" }
 dependencies = [
     { name = "coverage" },
     { name = "defusedxml" },
