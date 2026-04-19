@@ -18,3 +18,4 @@ wheels/
 *logs*
 *data*
 testing.py
+.DS_Store
